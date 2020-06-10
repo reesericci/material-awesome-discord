@@ -8,7 +8,7 @@
     --background-dark-tertiary: #101A21 !important;
     --background-primary: #101A21 !important;
     --background-secondary: #101A21 !important;
-    --background-secondary-alt: #101A21 !important;
+    --background-secondary-alt: #232C32 !important;
     --background-tertiary: #101A21 !important;
     --background-floating: #00365B !important;
     --background-modifier-hover: #232C32 !important;
@@ -16,7 +16,6 @@
     --background-modifier-selected: #00365B !important;
     --background-modifier-accent: #00365B !important;
     --channeltextarea-background: #232C32 !important;
-    --popout-color: #101A21 !important;
 /* Horizontal Server Icons - @gibbu on GitHub**/
     --HSL-server-icon-size: 40px;  /* Size of the server icons | DEFAULT: 40px */
     --HSL-server-spacing: 10px;  /* Spacing between each server icon | DEFAULT: 10px */
@@ -953,7 +952,7 @@ body.foldercontentopened .base-3dtUhz {
 }
 
 .theme-dark .selectorSelected-1_M1WV {
-    background-color: var(--background-primary);
+    background-color: #232C32 ;
 }
 
 .theme-dark .colorPickerCustom-2CWBn2 {
@@ -1166,7 +1165,7 @@ body.foldercontentopened .base-3dtUhz {
 
 .theme-dark .outer-1AjyKL.active-1xchHY,
 .theme-dark .outer-1AjyKL.interactive-3B9GmY:hover {
-    background-color: #101A21;
+    background-color: #232C32;
 }
 
 .theme-dark .popout-38lTFE {
@@ -2020,12 +2019,12 @@ html:not(.platform-win).theme-light #user-settings .item-PXvHYJ:nth-of-type(19),
 
 .theme-dark .tooltipGrey-1hnvTt,
 .theme-light .tooltipGrey-1hnvTt {
-    background-color: #101A21;
+    background-color: #232C32;
 }
 
 .theme-dark .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK,
 .theme-light .tooltipGrey-1hnvTt .tooltipPointer-3ZfirK {
-    border-top-color: #101A21;
+    border-top-color: #232C32;
 }
 
 .theme-dark .bd-addon-list .bd-addon-card {
